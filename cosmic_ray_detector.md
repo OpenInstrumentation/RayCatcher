@@ -9,7 +9,7 @@ ___***WARNING!***___
 ***This project deals with high voltage. Make certain to use appropriate precautions. Do not cut any wires while all batteries are connected; remove and replace batteries while wearing nitrile gloves if using standard battery clips.*** Drawer-type battery holders do not necessitate the use of gloves.
 
 ### Circuit
-![image](https://raw.githubusercontent.com/petmar0/RayCatcher/master/CRDetect.png =400x "Detector Circuit")
+![image](https://raw.githubusercontent.com/petmar0/RayCatcher/master/CRDetect.png "Detector Circuit")
 
 In this circuit diagram, **R** is the sense resistor, usually about 1 kΩ, and **V** is the bias voltage. The bias voltage should be less than the turn-on voltage (usually either 95 or 65 VDC depending on the type of bulb being used), but should be high enough that a cosmic ray can trigger the circuit, causing a current to flow through the resistor. This is usually about 80-94 VDC, and can be supplied by a bank of 9-volt batteries, or a DC-DC converter that has a sufficiently large capacitor across it to absorb all transients.
 
