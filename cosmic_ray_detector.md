@@ -1,10 +1,10 @@
 # Cosmic Ray Detector
 ## Overview
-This project seeks to create an inexpensive cosmic ray detector capable of sensing rays greater than 1 GeV in energy.
+This project seeks to create an inexpensive cosmic ray detector capable of sensing rays greater than 1 GeV in energy. These can be used either as part of a timing synchronization solution, or as part of a large, distributed cosmic ray telescope.
 
 ![image](http://auger.physics.wisc.edu/images/crspectrum.gif "Cosmic Ray Spectrum")
 
-___***WARNING!***___
+***WARNING!***
 
 ***This project deals with high voltage. Make certain to use appropriate precautions. Do not cut any wires while all batteries are connected; remove and replace batteries while wearing nitrile gloves if using standard battery clips.*** Drawer-type battery holders do not necessitate the use of gloves.
 
